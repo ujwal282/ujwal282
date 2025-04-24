@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Ujwal  
 
 💡 Passionate about web development and solving real-world problems  
-📚 Currently learning: **JavaScript**  
+📚 Currently learning: **JavaScript** , **React** 
 🎯 Always exploring new technologies and improving my skills  
 
 ---
