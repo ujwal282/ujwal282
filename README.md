@@ -31,14 +31,14 @@
 
 ---
 
-### 🧠 Top Languages
-![ujwal282's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal282&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal282&layout=compact&theme=default&hide_border=true)
 
 ---
 
-### 🏆 Custom Stats Card
+### 🏆 Custom GitHub Stats Card
 > *(Inspired by Anurag Hazra)*  
-![Custom Stats Card](INSERT_YOUR_CUSTOM_CARD_IMAGE_LINK_HERE)
+<img src="https://raw.githubusercontent.com/ujwal282/ujwal282/main/assets/ujwal-github-stats.png" alt="Custom Stats Card" />
 
 ---
 
