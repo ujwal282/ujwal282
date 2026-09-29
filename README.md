@@ -1,107 +1,47 @@
-# Hey, I'm Ujwal 👋
+## 🚀 Projects
 
-### Full-Stack JavaScript Developer
+### 🛒 E-Commerce Web Project
 
-I build practical web applications using **JavaScript, React, Node.js, and MongoDB**, with a strong interest in backend development, APIs, system design, and real-world software.
+A full-stack e-commerce project focused on building an online shopping experience.
 
-🎓 BCA Student • 💻 MERN Developer • 🚀 Builder
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-</p>
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-## 🚀 Featured Projects
+### 🔐 Simple OTP Generator
 
-### 🇳🇵 NepalVerse
+A simple project for generating one-time passwords and understanding OTP generation logic.
 
-A full-stack platform focused on solving practical problems across governance, healthcare, education, employment, and community services.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
+**Tech:** JavaScript
 
 ---
 
-### 📊 IPO / NEPSE Platform
+### 📱 QR UI
 
-A platform focused on Nepal's IPO ecosystem, including IPO information, alerts, bulk results, and portfolio tracking.
+A responsive QR-code interface project focused on frontend layout and UI implementation.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,electron,mongodb" />
-</p>
+**Tech:** HTML • CSS
 
 ---
 
-### 🤖 AURA
+### 📝 Simple Blog Card
 
-A local AI assistant built with Node.js, exploring natural-language interaction, memory, modular architecture, and local data processing.
+A simple frontend project for creating a clean blog-card interface.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js" />
-</p>
+**Tech:** HTML • CSS
 
 ---
 
-## 🧠 Currently Learning
+### 🌐 Web Project
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker" />
-</p>
+A web development project created while exploring frontend development and web technologies.
 
-**JavaScript → React → Node.js → MongoDB → Backend Architecture → System Design**
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-## 🧠 Development Philosophy
+### ☕ Java Practical
 
-> **Build it. Understand it. Improve it.**
+A collection of Java practical exercises and academic programming work.
 
-I don't want to simply make things work.
-
-I want to understand **why they work, how they behave internally, where they can fail, and how to design them better.**
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwal282&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal282&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://paudelujwal.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ujwal282">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ⚡ Build. Learn. Ship.
+**Tech:** Java
