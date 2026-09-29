@@ -1,47 +1,149 @@
-## 🚀 Projects
+# Hey, I'm Ujwal 👋
+
+### Full-Stack JavaScript Developer
+
+I build practical web applications using **JavaScript, React, Node.js, and MongoDB**.
+I enjoy turning ideas into working products and understanding how things work under the hood.
+
+🎓 BCA Student
+💻 MERN Stack Developer
+🚀 Building real-world projects
+🧠 Learning backend architecture & system design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Movies Ticket Booking
+
+A full-stack movie ticket booking application for discovering movies, finding theaters, and booking tickets.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+**Highlights**
+
+* 🎟️ Movie ticket booking
+* 🎥 Movie & theater management
+* 📍 Distance-based theater discovery
+* 🔐 User authentication
+* 💳 Payment integration
+* 📱 Responsive UI
+
+---
+
+### 🔐 AuthSystem
+
+A full-stack authentication system focused on implementing authentication and authorization in a real-world application.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+**Highlights**
+
+* 🔑 User registration & login
+* 🔒 Authentication & authorization
+* 🎫 JWT authentication
+* 🔄 Token handling
+* 🛡️ Protected routes
+* 👤 User management
+
+---
 
 ### 🛒 E-Commerce Web Project
 
-A full-stack e-commerce project focused on building an online shopping experience.
+A full-stack e-commerce application built to explore real-world shopping workflows and application architecture.
 
-**Tech:** HTML • CSS • JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
 
----
+**Highlights**
 
-### 🔐 Simple OTP Generator
-
-A simple project for generating one-time passwords and understanding OTP generation logic.
-
-**Tech:** JavaScript
-
----
-
-### 📱 QR UI
-
-A responsive QR-code interface project focused on frontend layout and UI implementation.
-
-**Tech:** HTML • CSS
+* 🛍️ Product browsing
+* 🛒 Shopping cart
+* 👤 User accounts
+* 🔐 Authentication
+* 📦 Order workflow
+* 💾 Database integration
 
 ---
 
-### 📝 Simple Blog Card
+## 📚 Currently Learning
 
-A simple frontend project for creating a clean blog-card interface.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,docker" />
+</p>
 
-**Tech:** HTML • CSS
+I'm currently focusing on:
+
+* Advanced JavaScript
+* React architecture
+* Node.js & Express
+* REST API design
+* Authentication & authorization
+* MongoDB & database design
+* Redis & caching
+* WebSockets
+* Background jobs & queues
+* System design
 
 ---
 
-### 🌐 Web Project
+## 🧠 Development Philosophy
 
-A web development project created while exploring frontend development and web technologies.
+> **Build it. Understand it. Improve it.**
 
-**Tech:** HTML • CSS • JavaScript
+I like going beyond simply making something work.
+
+I want to understand **why it works, how it behaves internally, where it can fail, and how it can be improved.**
 
 ---
 
-### ☕ Java Practical
+## 📊 GitHub Stats
 
-A collection of Java practical exercises and academic programming work.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujwal282&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal282&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
 
-**Tech:** Java
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://paudelujwal.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ujwal282">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Build. Learn. Ship.
